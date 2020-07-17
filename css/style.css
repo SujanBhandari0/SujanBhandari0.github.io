@@ -1,0 +1,225 @@
+/*css of home page*/
+footer{
+	width: 100%;
+
+}
+						/*this is the division
+ 						of right side word*/
+.div{
+	
+
+	margin-left:3%; 
+	width: 30%;
+	margin-top: 25%; 
+	color: white;
+	font-size:7vw;
+	letter-spacing: 15px;
+	
+}
+.subdiv{
+	font-size: 1.9vw;
+	margin-left:3%;
+	color: #F46D1B;
+}
+							/*this is the part of footer*/
+.footer{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	
+								/*this is navigation bar
+								css started*/
+}
+.topnav {
+  background-color:#333;
+   width: 100%;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align:center;
+  padding: 15px 10px;
+  text-decoration: none;
+  letter-spacing: 1px;
+  width: 100%;
+}
+
+.topnav a:hover {
+  background-color:#2B465F;
+  color: black;
+
+}
+
+.topnav a.active {
+  background-color: #2B465F;
+  color: white;
+}
+td{
+	width: 250px;
+	text-transform: uppercase;
+	font-size: 1.5vw;
+	text-align: center;
+}
+
+							/*footer part css
+							begain */
+.footersection{
+	padding:0 0 6% 0;
+	background-color: #7F97AF ;
+	text-align: center;
+	font-size: 1.4vw;
+	width: 100%;
+	padding
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*the part below
+this is the contain
+of css used for 
+contact me page in the site*/
+.cont{
+  width: 30%;
+  padding: 10px;
+  border: 5px;
+  margin: 0;
+  font-size: 5vw;
+  text-align: center;
+  margin-left: 33%;
+  margin-top: 1%;
+  background-color:#386797;
+  color: black;
+  border-color: #354C64;
+}
+
+.phone{
+	width: 15%;
+  	padding: 10px;
+  	border: 5px solid #354C64;
+ 	font-size: 1.5vw;
+  	text-align: center;
+  	margin-top: 5px;
+  	background-color: #354C64;
+}
+.divcenter{
+	width: 22%;
+  	padding: 10px;
+  	border: 5px solid #354C64;
+ 	/*margin: 0;*/
+  	font-size: 1.5vw;
+  	text-align: center;
+  	margin-left: 18%;
+  	/*margin-bottom: 10%*/
+  	margin-top: -27.1%;
+  	background-color: #354C64;
+
+}
+.divright{
+	width: 50%;
+  	padding: 10px;
+  	border: 5px solid #354C64;
+ 	font-size: 1.5vw;
+  	text-align: left;
+  	margin-left: 43%;
+ 	margin-top: -20.3%;
+ 	background-color: #354C64;
+}
+							/*social media div*/
+.soc{
+	width:23.5%;
+	height:70px;
+	border: 5px solid #354C64;
+	font-size: 1.5vw;
+	margin-top: -18.5%;
+	background-color: #354C64;
+	margin-left: 18%;
+	text-align: center;
+
+}
+							/*footer section*/
+.foot{
+	padding:0 0 6% 0;
+	background-color: #354C64 ;
+	text-align: center;
+	font-size: 1.4vw;
+	width: 100%;
+	margin-top: 13%;
+}
+							/*submit button */
+.submit:hover{
+	background-color: #354C64;
+	
+}
+
+
+
+
+
+
+/*from here 
+css of  cv page
+is just started */
+.name{
+
+}
+.edu{
+	width:30%;
+  	padding: 10px;
+  	border: 2px solid white;
+  	font-size: 1.5vw;
+  	margin-top: 8px;
+  	margin-left: 1%;
+   	margin-top:1%;
+}
+.heading{
+	font-size: 2.5vw;
+	font-family: Berlin Sans FB;
+
+}
+.contain{
+	font-size: 1.4vw;
+	margin-left: 15px;
+	font-family: Sylfaen;
+}
+.part{
+	padding: 10px;
+  font-size: 40px;
+  text-align: justify;
+  background: white;
+}
+.footercv{
+	padding:0 0 6% 0;
+	background-color: #354C64 ;
+	text-align: center;
+	font-size: 1.4vw;
+	width: 100%;
+	margin-top: 8%;
+}
+
+
+
+
+
+
+/*blpg section css started from here 
+*/
+.contn{
+	text-align: justify;
+	font-size: 1.5vw;
+	width: 70%;
+	margin-left: 15%;
+}
